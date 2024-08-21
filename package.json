@@ -5,8 +5,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mizan-Rifat/iconify-extension",
-    "api": "https://api.github.com/repos/Mizan-Rifat/iconify-extension"
+    "url": "https://github.com/Mizan-Rifat/task-tracker",
+    "api": "https://api.github.com/repos/Mizan-Rifat/task-tracker"
   },
   "scripts": {
     "build": "vite build",
